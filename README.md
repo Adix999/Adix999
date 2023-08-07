@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript, MongoDB, Express.js, React.js, Node.js (MERN Stack Web Development) 
 - 📫 How to reach me ...LinkedIn : https://www.linkedin.com/in/aditya-kumar-52364127a
                          Instagram : https://instagram.com/_adix26?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D
-                         Email : Adityakumar2892016@gmail.com 
+                         Email : Adityakumar2892016@gmail.com  
 
 <!---
 Adix999/Adix999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
